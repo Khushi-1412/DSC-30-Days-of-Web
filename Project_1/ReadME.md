@@ -28,7 +28,7 @@
             <input type="radio" id="other" name="gender" value="other">
             <label for="other">Other</label>
         </form>
-        <h2>Table with random information</h2>
+        <h2>Table with random information</h2> 
         <table style="width:50%">
             <tr>
               <th>Firstname</th>
